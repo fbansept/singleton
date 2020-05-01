@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f659fd-97f3-4729-a9ed-c7dc8d719375" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bKAZphy0uiqQCKwB2rsBk9Lfjc" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/edu/fbansept/sansSingleton" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fbansept\Documents\cours\java\design pattern\singleton\src\edu\fbansept\sansSingleton" />
+      <recent name="C:\Users\fbansept\Documents\cours\java\design pattern\singleton\src\edu\fbansept" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.fbansept.avecSingeton.MainAvecSingleton" />
+      <module name="singleton" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSansSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.fbansept.sansSingleton.MainSansSingleton" />
+      <module name="singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.fbansept.sansSingleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainSansSingleton" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainSansSingleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f659fd-97f3-4729-a9ed-c7dc8d719375" name="Default Changelist" comment="" />
+      <created>1588370469411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588370469411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2408" y="776" key="#com.intellij.ide.util.MemberChooser" timestamp="1588371530681">
+      <screen x="1920" y="672" width="1366" height="738" />
+    </state>
+    <state x="2408" y="776" key="#com.intellij.ide.util.MemberChooser/1920.672.1366.738/0.0.1920.1050@1920.672.1366.738" timestamp="1588371530681" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1588371816449">
+      <screen x="1920" y="672" width="1366" height="738" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/1920.672.1366.738/0.0.1920.1050@1920.672.1366.738" timestamp="1588371816449" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1588371816448">
+      <screen x="1920" y="672" width="1366" height="738" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/1920.672.1366.738/0.0.1920.1050@1920.672.1366.738" timestamp="1588371816448" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1588371816448">
+      <screen x="1920" y="672" width="1366" height="738" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/1920.672.1366.738/0.0.1920.1050@1920.672.1366.738" timestamp="1588371816448" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1588371816449">
+      <screen x="1920" y="672" width="1366" height="738" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/1920.672.1366.738/0.0.1920.1050@1920.672.1366.738" timestamp="1588371816449" />
+  </component>
+</project>
